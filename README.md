@@ -1,5 +1,5 @@
 # House-Price-Prediction
-Models used : Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest & Gradient Boosting.
+Models used : Linear Regression, Ridge Regression, Lasso Regression, Decision Tree, Random Forest and Gradient Boosting.
 
 Approach Taken:
 
